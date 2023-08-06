@@ -58,7 +58,7 @@
 <summary><h2 style="display: inline-block;">Git Stats:</h2></summary>
 <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="360"/>
 
-![Shiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperShiraz&show_icons=true&theme=radical)
+![Shiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=developershiraz&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical)
 

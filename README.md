@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="360"/>
-  <hr>
   <summary><h1 style="display: inline-block;">Hi, I am Shiraz</h1></summary>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="360"/>
   <p><h4 align="center"><samp> I am a highly motivated Software Engineer who loves to solve bugs as they occur throughout my coding journey.</samp></h4></p>
 </div>
 <div>

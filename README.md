@@ -97,37 +97,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-## 📊 **GitHub Analytics**
-
-<table>
-<tr>
-<td>
-
-![Shiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=developershiraz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-</td>
-<td>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=developershiraz&theme=radical&hide_border=true&background=0D1117)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developershiraz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-</td>
-</tr>
-</table>
-
-![Profile Views](https://komarev.com/ghpvc/?username=developershiraz&color=F85D7F&style=flat-square&label=Profile+Views)
-
-</div>
 
 ---
 

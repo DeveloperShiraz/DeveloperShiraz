@@ -1,77 +1,154 @@
 <div align="center">
-  <summary><h1 style="display: inline-block;">Hi, I am Shiraz</h1></summary>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shiraz!;AWS+Solutions+Architect!;Full+Stack+Developer!;" />
+  </h1>
+  
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="360"/>
-  <p><h4 align="center"><samp> I am a highly motivated Software Engineer who loves to solve bugs as they occur throughout my coding journey.</samp></h4></p>
-</div>
-<div>
   
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about the Data Structures & Algorithms.
-- 🤔 <samp>The Program works but is it the efficient approach?
+  <h3>🚀 Passionate Software Engineer | AWS Solutions Architect | Problem Solver 🧠</h3>
+  <p><em>Turning coffee into code, one algorithm at a time ☕️→💻</em></p>
 </div>
 
 <div align="center">
-<hr>
-<summary><h2 style="display: inline-block;">Skills:</h2></summary>
-<summary><h2 style="display: inline-block;">Programming Languages:</h2></summary>
-<img src="programming_languages/cpp.svg" width="50"/>
-<img src="programming_languages/c-sharp.svg" width="50"/>
-<img src="programming_languages/flutter.svg" width="50"/>
-<img src="programming_languages/java.svg" width="50"/>
-<img src="programming_languages/javascript.svg" width="50"/>
-<img src="programming_languages/nodejs.svg" width="50"/>
-<img src="programming_languages/python.svg" width="50"/>
-<br/>
-
-<summary><h2 style="display: inline-block;">Backend Frameworks:</h2></summary>
-<img src="backend_frameworks/dot-net.svg" width="50"/>
-<img src="backend_frameworks/django.svg" width="50"/>
-<img src="backend_frameworks/fastapi.svg" width="50"/>
-<img src="backend_frameworks/flask.svg" width="50"/>
-<br/>
-
-<summary><h2 style="display: inline-block;">Cloud Services:</h2></summary>
-<img src="cloud_service/firebase.svg" width="50"/>
-<br/>
-
-<summary><h2 style="display: inline-block;">Database:</h2></summary>
-<img src="database/mongodb.svg" width="50"/>
-<img src="database/mysql.svg" width="50"/>
-<br/>
-
-<summary><h2 style="display: inline-block;">Web Development:</h2></summary>
-<img src="web_development/css3.svg" width="50"/>
-<img src="web_development/html5.svg" width="50"/>
-<img src="web_development/react.svg" width="50"/>
-<br/>
-
-<summary><h2 style="display: inline-block;">Version Control:</h2></summary>
-<img src="version_control/bitbucket.svg" width="50"/>
-<img src="version_control/git.svg" width="50"/>
-<img src="version_control/github.svg" width="50"/>
-<br/>
-</div>
-
-<div align="center">
-<hr>
-<summary><h2 style="display: inline-block;">Git Stats:</h2></summary>
-<img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="360"/>
-
-![Shiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=developershiraz&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
-
-![snake svg](https://github.com/trendsettershiraz/trendsettershiraz/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<div align="center">
-<hr>
-<summary><h2>Connect With Me Here: <a href="https://leetcode.com/TrendPepper/">
-  <img align="center" alt="Leetcode" width="100px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
   
-  <a href="https://www.linkedin.com/in/trendsettershiraz/">
-  <img align="center" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></h2></summary>
-<hr>
+  🎯 **Currently seeking Full-Time opportunities as a Software Engineer/Solutions Architect**
+  
+  💡 **Ask me about:** Data Structures & Algorithms, AWS Architecture, Full-Stack Development
+  
+  🤔 **Philosophy:** "The code works, but is it scalable, maintainable, and efficient?"
+  
+  🏆 **AWS Certified Solutions Architect Associate (SAA-C03)** | Score: 930/1000 🎉
+  
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ **Tech Stack** 
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### ☁️ **Cloud & DevOps**
+<img src="cloud_service/aws.svg" width="40" title="AWS"/>
+<img src="cloud_service/azure.svg" width="40" title="Azure"/>
+<img src="cloud_service/docker.svg" width="40" title="Docker"/>
+<img src="cloud_service/firebase.svg" width="40" title="Firebase"/>
+<img src="cloud_service/netlify.svg" width="40" title="Netlify"/>
+
+### 🗄️ **Databases**
+<img src="cloud_service/aws.svg" width="40" title="AWS RDS/DynamoDB"/>
+<img src="database/mongodb.svg" width="40" title="MongoDB"/>
+<img src="database/mysql.svg" width="40" title="MySQL"/>
+<img src="database/postgresql.svg" width="40" title="PostgreSQL"/>
+
+### 🎨 **Design Tools**
+<img src="web_development/adobe-illustrator.svg" width="40" title="Adobe Illustrator"/>
+<img src="web_development/adobe-photoshop.svg" width="40" title="Adobe Photoshop"/>
+<img src="web_development/adobe-premiere.svg" width="40" title="Adobe Premiere Pro"/>
+<img src="web_development/figma.svg" width="40" title="Figma"/>
+
+</td>
+<td valign="top" width="33%">
+
+### 💻 **Languages & Frameworks**
+<img src="programming_languages/c-sharp.svg" width="40" title="C#"/>
+<img src="programming_languages/cpp.svg" width="40" title="C++"/>
+<img src="web_development/css3.svg" width="40" title="CSS"/>
+<img src="backend_frameworks/django.svg" width="40" title="Django"/>
+<img src="programming_languages/flutter.svg" width="40" title="Flutter"/>
+<img src="web_development/html5.svg" width="40" title="HTML"/>
+<img src="programming_languages/java.svg" width="40" title="Java"/>
+<img src="programming_languages/javascript.svg" width="40" title="JavaScript"/>
+<img src="web_development/nextjs.svg" width="40" title="Next.js"/>
+<img src="programming_languages/nodejs.svg" width="40" title="Node.js"/>
+<img src="programming_languages/python.svg" width="40" title="Python"/>
+<img src="web_development/react.svg" width="40" title="React"/>
+<img src="web_development/scss.svg" width="40" title="SCSS"/>
+
+### 📱 **Mobile & CMS**
+<img src="web_development/android.svg" width="40" title="Android"/>
+<img src="web_development/wordpress.svg" width="40" title="WordPress"/>
+
+</td>
+<td valign="top" width="33%">
+
+### 🔧 **Tools & Automation**
+<img src="version_control/bitbucket.svg" width="40" title="Bitbucket"/>
+<img src="version_control/git.svg" width="40" title="Git"/>
+<img src="version_control/github.svg" width="40" title="GitHub"/>
+<img src="cloud_service/google-ads.svg" width="40" title="Google AdWords"/>
+<img src="cloud_service/n8n.svg" width="40" title="n8n"/>
+
+### 📊 **Business & Analytics**
+<img src="cloud_service/servicenow.png" width="40" title="ServiceNow"/>
+
+### 🏆 **Certifications**
+🎖️ **AWS Solutions Architect Associate (SAA-C03)** - 930/1000  
+📊 **Business Analytics**  
+🔍 **SEO & Digital Marketing**  
+🎨 **UI/UX Design**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<table>
+<tr>
+<td>
+
+![Shiraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=developershiraz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+</td>
+<td>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=developershiraz&theme=radical&hide_border=true&background=0D1117)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developershiraz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+</td>
+</tr>
+</table>
+
+![Profile Views](https://komarev.com/ghpvc/?username=developershiraz&color=F85D7F&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect & Collaborate**
+
+<a href="https://www.linkedin.com/in/trendsettershiraz/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/TrendPepper/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**💬 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy coding!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
+
 </div>
